@@ -11,4 +11,4 @@ This is a public Brazilian e-commerce dataset of Olist Store orders. The dataset
 3. Is the shipping process proceeding as expected?
 
 # Article
-https://medium.com/@akhmadtaufik/exploratory-data-analysis-in-olist-store-a-step-by-step-process-2794f3ea6ca2
+https://bit.ly/WranglingAkhmad
